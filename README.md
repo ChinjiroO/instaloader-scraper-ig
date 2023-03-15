@@ -5,13 +5,13 @@
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to .
 
 ```bash
-pip3 -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 or
 
 ```bash
-pip -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage

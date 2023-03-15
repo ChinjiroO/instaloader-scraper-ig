@@ -1,0 +1,3 @@
+INSTA_USERNAME = 'YOUR_INSTAGRAM_USERNAME'
+INPUT_FILE = 'input/input_profiles.csv'
+CHUNK_SIZE = 20

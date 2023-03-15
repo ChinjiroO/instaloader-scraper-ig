@@ -23,3 +23,7 @@ pip -r requirements.txt
 Note: The script will create a folder called `output` in root directory and put the downloaded files in it.
 
 Your account should be <span style="color:red"> 2FA </span> enabled.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
